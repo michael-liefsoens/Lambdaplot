@@ -23,4 +23,4 @@ To reproduce main results and figures of the article, the jupyter notebook repro
 License for use: GNU GPLv3
 
 ![](https://raw.githubusercontent.com/michael-liefsoens/Lambdaplot/master/experimental_Lambda_plot_numbered_untreated.png?token=GHSAT0AAAAAACVCXWUQ53JVSBEEN5UID6H4ZU3UXSA)
-![](https://raw.githubusercontent.com/michael-liefsoens/Lambdaplot/master/experimental_Lambda_plot_numbered_6h-auxin.png?token=GHSAT0AAAAAACVCXWUQS7WJBGT6IRUEV23IZU3UT5A)
+![](https://raw.githubusercontent.com/michael-liefsoens/Lambdaplot/master/experimental_Lambda_plot_numbered_6h-auxin.png)
