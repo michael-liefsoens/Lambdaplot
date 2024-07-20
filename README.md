@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/michael-liefsoens/Lambdaplot/master/cover_image.png?token=GHSAT0AAAAAACVCXWUQV77OMWEZNASXBIZQZU3UWXA)
+
+
 Repository for scripts and functions used for the lambda-plot (2024) project
 (https://doi.org/10.48550/arXiv.2310.15701)
 
